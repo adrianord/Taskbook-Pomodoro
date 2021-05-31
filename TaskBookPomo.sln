@@ -18,6 +18,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskBookPomo.Infrastructure
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskBookPomo.Common", "src\TaskBookPomo.Common\TaskBookPomo.Common.csproj", "{DB1F84EC-6BFA-4A5E-AA5F-975E79276143}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "docs", "docs", "{D0B4244D-0DD5-435D-BD69-646A36C189BD}"
+ProjectSection(SolutionItems) = preProject
+	docs\spec.md = docs\spec.md
+EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
